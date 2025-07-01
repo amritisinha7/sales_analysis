@@ -1,0 +1,36 @@
+2025-06-28 12:29:23,647 - INFO - Ingesting begin_inventory.csv in db
+2025-06-28 12:29:26,156 - INFO - Ingesting end_inventory.csv in db
+2025-06-28 12:29:35,150 - INFO - Ingesting purchases.csv in db
+2025-06-28 12:30:23,604 - INFO - Ingesting purchase_prices.csv in db
+2025-06-28 12:30:46,645 - INFO - Ingesting sales.csv in db
+2025-06-28 12:35:45,987 - INFO - Ingesting vendor_invoice.csv in db
+2025-06-28 12:35:46,150 - INFO - ----------Ingestion Complete----------
+2025-06-28 12:35:46,150 - INFO - 
+ Total Time Taken: 6.38 minutes
+2025-06-29 14:48:30,344 - INFO - Ingesting begin_inventory.csv in db
+2025-06-29 14:48:33,329 - INFO - Ingesting end_inventory.csv in db
+2025-06-29 14:48:42,659 - INFO - Ingesting purchases.csv in db
+2025-06-29 14:49:37,279 - INFO - Ingesting purchase_prices.csv in db
+2025-06-29 14:50:01,945 - INFO - Ingesting sales.csv in db
+2025-06-29 14:55:21,401 - INFO - Ingesting vendor_invoice.csv in db
+2025-06-29 14:55:21,544 - INFO - ----------Ingestion Complete----------
+2025-06-29 14:55:21,544 - INFO - 
+ Total Time Taken: 6.86 minutes
+2025-06-30 20:26:13,518 - INFO - Ingesting begin_inventory.csv in db
+2025-06-30 20:26:16,568 - INFO - Ingesting end_inventory.csv in db
+2025-06-30 20:26:25,464 - INFO - Ingesting purchases.csv in db
+2025-06-30 20:27:12,619 - INFO - Ingesting purchase_prices.csv in db
+2025-06-30 20:27:45,250 - INFO - Ingesting sales.csv in db
+2025-06-30 20:37:55,733 - INFO - Ingesting vendor_invoice.csv in db
+2025-06-30 20:37:55,910 - INFO - ----------Ingestion Complete----------
+2025-06-30 20:37:55,910 - INFO - 
+ Total Time Taken: 11.71 minutes
+2025-07-01 15:58:20,345 - INFO - Ingesting begin_inventory.csv in db
+2025-07-01 15:58:23,495 - INFO - Ingesting end_inventory.csv in db
+2025-07-01 15:58:32,590 - INFO - Ingesting purchases.csv in db
+2025-07-01 15:59:23,752 - INFO - Ingesting purchase_prices.csv in db
+2025-07-01 15:59:49,922 - INFO - Ingesting sales.csv in db
+2025-07-01 16:05:16,740 - INFO - Ingesting vendor_invoice.csv in db
+2025-07-01 16:05:16,914 - INFO - ----------Ingestion Complete----------
+2025-07-01 16:05:16,914 - INFO - 
+ Total Time Taken: 6.95 minutes
